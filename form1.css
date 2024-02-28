@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(69, 69, 95);
+}
+input:focus{
+    padding: 5px;
+    outline: none;
+}
+.first{
+    border: 2px solid black;
+    text-align: center;
+    background-color: aqua;
+   margin: 10px 250px 10px 250px;
+
+
+}
+.second{
+    text-align: center;
+}
+input[type="submit"]
+{
+    text-align: center;
+    background-color: rgb(44, 44, 91);
+  
+}
+#third{
+    text-align: center;
+    
+}
